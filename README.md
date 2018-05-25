@@ -1,4 +1,4 @@
-# Notepad Grav Theme
+# Notepad Grav Theme*
 
 ![Notepad](assets/readme_1.png)
 
